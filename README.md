@@ -73,6 +73,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Acknowledgments
 We would like to express our gratitude to the contributors of open-source libraries and frameworks used in this project. Their work has been instrumental in the development of this application.
-
-## Contact
-For inquiries, feedback, or collaborations, please feel free to reach out to us at [your-email@example.com](khanabdulrafe48@gmail.com).
