@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static\style.css">
+    <title>Brain Tumor Detection</title>
+</head>
+<body>
+    <h1>Brain Tumor Detection</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <button type="submit">Predict</button>
+    </form>
+    <br>
+    <div id="result">
+        {% if result %}
+            <p>{{ result }}</p>
+        {% endif %}
+        {% if error %}
+            <p>Error: {{ error }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>

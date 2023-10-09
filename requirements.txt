@@ -1,0 +1,5 @@
+opencv
+flask
+tensorflow
+pillow
+scikit-learn
