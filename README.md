@@ -1,5 +1,7 @@
 # Brain Tumor Detection
-![image](https://github.com/Rafe2001/Brain-Tumor-Detection-app/assets/108533597/94be66d8-0414-4422-b9dd-c151bec4b702)
+![image](https://github.com/Rafe2001/Brain-Tumor-Detection-app/assets/108533597/8137a599-d003-4fce-a108-8f2b1e1c4711)
+![image](https://github.com/Rafe2001/Brain-Tumor-Detection-app/assets/108533597/22bd535d-14a2-464b-a082-7bc2bf916f5c)
+![image](https://github.com/Rafe2001/Brain-Tumor-Detection-app/assets/108533597/42e7ef40-2289-46f1-9604-0671795c71f0)
 
 
 ## Table of Contents
@@ -16,9 +18,6 @@ The "Brain Tumor Detection" project is an advanced deep learning application des
 
 ### Algorithm Overview
 This project employs a state-of-the-art convolutional neural network (CNN) architecture to perform brain tumor classification. The CNN is trained on a diverse dataset of brain MRI scans, enabling it to distinguish between tumor and non-tumor images with remarkable accuracy. With a validation accuracy of over 91% and a training accuracy exceeding 96%, the model demonstrates its robustness and effectiveness.
-
-## Demo
-You can experience the Brain Tumor Detection application in action through our live demo at .
 
 ## Features
 - **Accurate Tumor Detection**: The deep learning model accurately detects brain tumors in MRI scans.
